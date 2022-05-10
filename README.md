@@ -7,6 +7,8 @@ To play game on your PC u can download the repos
 and then run "Play The Game.bat" file in windows
 <br>
 or opening the code in vs studio and then running the "Source.cpp" file will also run the game
+<br>
+(don't forget to download SFML library and setting them before running game in vs studio)
 <br> <br>
 Game Preview : 
 <br> <br>
