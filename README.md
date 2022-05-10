@@ -9,7 +9,7 @@ and then run "Play The Game.bat" file in windows
 or opening the code in vs studio and then running the "Source.cpp" file will also run the game
 <br>
 Game Preview : 
-<br>
+<br> <br>
 
 
 ![Screenshot (503)](https://user-images.githubusercontent.com/86537681/167537163-6f53266f-df6e-4161-a6c5-f8572b78cb8d.png)
