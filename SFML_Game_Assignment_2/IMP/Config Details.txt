@@ -1,0 +1,11 @@
+enemyconfig : 
+SP : spawn time
+SMAX : speed max
+SMIN : speed min
+VMIN : vertices min
+VMAX : vertices max
+CR : collision radius
+OR, OG, OB : outline red, green, blue
+OT : outline thickness
+SR : sphere radius
+L : lifespan of small entities

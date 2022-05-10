@@ -1,0 +1,5 @@
+Window 	1280 720 60 0
+Font 		fonts\\WorkSans-Italic.ttf 28 255 215 0
+Player 	32 32 5 5 5 5 255 0 0 4 8
+Enemy 	32 32 3 8 255 255 255 2 3 9 90 60
+Bullet 		10 10 20 255 255 255 255 255 255 2 20 60
